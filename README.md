@@ -2,6 +2,6 @@
 func-kurs
 ###  create dotnet app
 
-dotnet newn console -lang ""F#'" -o myapp
+dotnet new console -lang ""F#'" -o myapp
 # app run
 dotmet  run
